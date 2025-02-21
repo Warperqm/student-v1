@@ -12,7 +12,7 @@ namespace ConsoleApp126
         }
     }
 
-    class Student
+    struct Student
     {
         public Student(string name, string surname, string patronymic, string age, string group)
         {
